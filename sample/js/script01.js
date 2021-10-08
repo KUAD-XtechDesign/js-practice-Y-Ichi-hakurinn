@@ -1,11 +1,11 @@
 $(function(){
 
     $("#button01").on("click",function(){
-        $(".back - red").hide();
+        $(".back-red").hide();
     })
 
     $("#button02").on("click",function(){
-        $(".back - blue").hide();
+        $(".back-blue").hide();
     })
 
     $("#button03").on("click",function(){
