@@ -1,4 +1,4 @@
-$function(){
+$(function(){
 
     $("#button01").on("click",function(){
         $("back-red").hide();
@@ -15,5 +15,5 @@ $function(){
     $("#button01").on("click",function(){
         $(".box").show();
     })
-    
-}
+
+})
